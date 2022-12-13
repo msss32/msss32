@@ -17,7 +17,6 @@
 
 - ⚡ 재밌는 사실 **사실.. 신학을 했다는..?!**
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
