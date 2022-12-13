@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 석</h1>
+<h1 align="center">안녕하세요!👋, 저는 개발자 Dori입니다!</h1>
 <h3 align="center">A creative web & block-chain developer from Korea</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msss32" alt="msss32" /></a> </p>
