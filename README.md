@@ -9,7 +9,7 @@
 
     - 👨‍💻 깃허브 [https://github.com/msss32](https://github.com/msss32)
 
-    - 📝 개발일지 주소 [https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8](https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8)
+    - 📝 개발일지 주소 [https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8]
 
     - 💬 서로 질문하고 답하고 **JavaScript, React**
 
