@@ -3,19 +3,19 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msss32" alt="msss32" /></a> </p>
 
-     - 🌱 배우고 있는 중 **Solidity, C#**
+    - 🌱 배우고 있는 중 **Solidity, C#**
 
-      - 🤝 Help me! [CookieKingdom](https://github.com/msss32/PersonalProject_CookieKingdom)
+    - 🤝 Help me! [CookieKingdom](https://github.com/msss32/PersonalProject_CookieKingdom)
 
-      - 👨‍💻 깃허브 [https://github.com/msss32](https://github.com/msss32)
+    - 👨‍💻 깃허브 [https://github.com/msss32](https://github.com/msss32)
 
-     - 📝 개발일지 주소 [https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8](https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8)
+    - 📝 개발일지 주소 [https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8](https://dori-space.notion.site/Space-1a0709076e1642b78b1e7f59835848c8)
 
-     - 💬 서로 질문하고 답하고 **JavaScript, React**
+    - 💬 서로 질문하고 답하고 **JavaScript, React**
 
-     - 📫 연락 이메일 **mstjrdl32@gmail.com**
+    - 📫 연락 이메일 **mstjrdl32@gmail.com**
 
-     - ⚡ 재밌는 사실 **사실.. 신학을 했다는..?!**
+    - ⚡ 재밌는 사실 **사실.. 신학을 했다는..?!**
 
 <p align="center">
 </p>
