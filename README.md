@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msss32" alt="msss32" /></a> </p>
 
-    - 🌱 끊임없이 배우고 있는 중 **JS, TS, Solidity, C#**
+    - 🌱 끊임없이 배우고 있는 중 **JS, React, TS, Solidity, C#**
 
     - 🤝 Help me! [CookieKingdom](https://github.com/msss32/PersonalProject_CookieKingdom)
 
